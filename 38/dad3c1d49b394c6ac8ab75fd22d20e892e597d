@@ -1,0 +1,21 @@
+desktop/src/lib/i18n.ts
+  s_179ad6c2536eae::t_74c3568d563251 5,48,55-59
+desktop/src/locales/zh-TW.json
+  s_179ad6c2536eae::t_1beaabf8ab8fb6 1-533
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "38dad3c1d49b394c6ac8ab75fd22d20e892e597d",
+  "prompts": {},
+  "sessions": {
+    "s_179ad6c2536eae": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0610a-51f7-7750-abfa-6b9cc677e531",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    }
+  }
+}
