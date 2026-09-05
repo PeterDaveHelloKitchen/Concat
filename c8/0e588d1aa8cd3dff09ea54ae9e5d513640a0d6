@@ -1,0 +1,26 @@
+desktop/src/locales/zh-TW.json
+  s_179ad6c2536eae::t_1beaabf8ab8fb6 1-533
+desktop/src/lib/i18n.ts
+  s_179ad6c2536eae::t_74c3568d563251 5,48,55-59
+  s_179ad6c2536eae::t_b21c9ae4c8b349 84
+  s_179ad6c2536eae::t_832e6a51cd129e 92-94
+desktop/src/lib/i18n.test.ts
+  s_179ad6c2536eae::t_83d06e08dd366c 12,14,31-43
+  s_179ad6c2536eae::t_6102541532309a 44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "c80e588d1aa8cd3dff09ea54ae9e5d513640a0d6",
+  "prompts": {},
+  "sessions": {
+    "s_179ad6c2536eae": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0610a-51f7-7750-abfa-6b9cc677e531",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
