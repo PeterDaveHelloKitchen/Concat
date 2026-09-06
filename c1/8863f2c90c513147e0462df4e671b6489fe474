@@ -1,0 +1,41 @@
+engine/crates/concat/locales/zh-TW.json
+  s_179ad6c2536eae::t_e5a826d3517856 338
+  s_179ad6c2536eae::t_d1fb748d058fc6 1-4,6-16,19-20,22-64,66-71,73-79,81-138,143-153,155-159,161-178,180-187,189-191,194-199,201-216,218,220-235,238-252,254-256,259-272,274-301,303-309,311-312,314-315,317-328,330-337,340-363,366-371,373-430,432-441,443,445-448,450-453,455-475,478-491,494-506,508-529
+  s_179ad6c2536eae::t_29f9033dbaf47f 192-193,237
+  s_179ad6c2536eae::t_4c4327fc9da410 17-18,339
+  s_179ad6c2536eae::t_108fca864a95c7 139-142,154,188,253,258,316,364,431,442,444
+  s_179ad6c2536eae::t_0105c72af6a8a6 5,72,80,200,219,273,365,449,507
+  s_179ad6c2536eae::t_5f894a4ae33db3 21,217,236
+  s_179ad6c2536eae::t_97484d442c42bc 65,160,179,257,302,310,313,329,372,454,476-477,492
+  s_179ad6c2536eae::t_156724f29770ae 493
+README.md
+  s_0a136136ff735a::t_53f51618f91b83 39
+TRANSLATING.md
+  s_179ad6c2536eae::t_0dc25f4fb07b32 59
+engine/crates/concat/src/i18n.rs
+  s_179ad6c2536eae::t_0dc25f4fb07b32 47,59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "c18863f2c90c513147e0462df4e671b6489fe474",
+  "prompts": {},
+  "sessions": {
+    "s_0a136136ff735a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff127-ea5c-73c2-b1d8-fcea04a6dad8",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    },
+    "s_179ad6c2536eae": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0610a-51f7-7750-abfa-6b9cc677e531",
+        "model": "gpt-6-astra"
+      },
+      "human_author": null
+    }
+  }
+}
