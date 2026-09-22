@@ -1,0 +1,26 @@
+src/crates/concat/locales/zh-TW.json
+  s_55d546d4620c6f::t_3229080b687fd5 923
+  s_55d546d4620c6f::t_4acf5ecf46be71 306
+  s_55d546d4620c6f::t_b6fddbc407f470 498
+  s_55d546d4620c6f::t_ee3658c8ad5f1e 969
+  s_55d546d4620c6f::t_1e213be2b3d412 674
+  s_55d546d4620c6f::t_9dfcd9e65b2a6d 5
+  s_55d546d4620c6f::t_5c93cb757fcfec 607
+  s_55d546d4620c6f::t_a832b12e8463d7 857
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "369f35e24bcafc48b1303f5479c6d83276dd0e24",
+  "prompts": {},
+  "sessions": {
+    "s_55d546d4620c6f": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f50483e54ffemUowUIjVOchJaa",
+        "model": "union-alpha"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    }
+  }
+}
